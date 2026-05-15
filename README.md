@@ -80,4 +80,4 @@ Analyze @sszuchan with the top 40 videos.
 
 ## Built by
 
-Ryan Carruthers — [LinkedIn](https://www.linkedin.com/in/ryancarruthers)
+Ryan Carruthers — [LinkedIn](https://www.linkedin.com/in/ryancarruthers7)
