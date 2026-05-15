@@ -1,0 +1,9 @@
+.DS_Store
+corpus/
+output/
+*.jsonl
+*.vtt
+*.info.json
+__pycache__/
+*.pyc
+.claude/
